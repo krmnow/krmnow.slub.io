@@ -1,6 +1,7 @@
 body {
   margin: 0;
   min-width: 250px;
+  background-color: #fde8ce;
 }
 
 /* Include the padding and border in an element's total width and height */
@@ -77,9 +78,9 @@ ul li.checked::before {
 
 /* Style the header */
 .header {
-  background-color: #f44336;
+  background-color: #fde8ce;
   padding: 30px 40px;
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -114,4 +115,10 @@ input {
 
 .addBtn:hover {
   background-color: #bbb;
+}
+#myUL{
+width: 68%;
+margin-right: auto;
+margin-left: auto;
+
 }
