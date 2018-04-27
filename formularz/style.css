@@ -122,3 +122,32 @@ margin-right: auto;
 margin-left: auto;
 
 }
+
+.formularz{
+width: 68%;
+margin-right: auto;
+margin-left: auto;
+
+}
+h4{
+  text-align: center;
+}
+
+input[type=text] {
+margin-right: auto;
+margin-left: auto;
+width: 100%;
+}
+
+input[type=submit] {
+  margin-right: auto;
+margin-left: auto;
+width: 100%;
+color: white;
+background-color: red;
+border: 1px solid black;
+  border-radius: 5px;
+}
+input[type=submit]:hover{
+  background-color: green;
+}
